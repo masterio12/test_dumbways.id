@@ -1,6 +1,6 @@
 # test_dumbways.id
 
-saya menggunakan node.js untuk soal nomer 1,2
+saya menggunakan node.js(javascript) untuk soal nomer 1,2
 dan C untuk soal nomer 3
 
 untuk membuat DATABASE 
